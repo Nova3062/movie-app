@@ -28,12 +28,3 @@
  .container:hover .overlay {
     opacity: 1;
  }
-
- .posterImage{
-   max-width: 100px;
- }
-
- .movieContainers{
-   border: 7px;
-   border-color: black;
- }
