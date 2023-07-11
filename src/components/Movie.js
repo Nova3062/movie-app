@@ -23,7 +23,9 @@ const Movie = ({ movie }) => {
       </div>
   );
 
+};
 
+export default Movie;
   // return (
   //   <div>
       
@@ -46,6 +48,4 @@ const Movie = ({ movie }) => {
       
     
   // );
-};
 
-export default Movie;
